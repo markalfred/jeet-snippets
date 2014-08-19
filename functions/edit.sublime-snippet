@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+edit()
+]]></content>
+  <tabTrigger>edit</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>edit()</description>
+</snippet>

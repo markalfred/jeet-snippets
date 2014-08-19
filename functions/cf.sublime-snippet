@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cf()${0}
+]]></content>
+  <tabTrigger>cf</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>cf()</description>
+</snippet>

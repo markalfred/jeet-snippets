@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+stack(${1})${0}
+]]></content>
+  <tabTrigger>stack</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>stack()</description>
+</snippet>
