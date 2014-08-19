@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+uncycle: ${0:3}
+]]></content>
+  <tabTrigger>unc</tabTrigger>
+  <scope>meta.function-call.stylus</scope>
+  <description>uncycle: n</description>
+</snippet>

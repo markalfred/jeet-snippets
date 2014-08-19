@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+max_width: ${0:100}px
+]]></content>
+  <tabTrigger>mw</tabTrigger>
+  <scope>meta.function-call.stylus</scope>
+  <description>max_width: px</description>
+</snippet>

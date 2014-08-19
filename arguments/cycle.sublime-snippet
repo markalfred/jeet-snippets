@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cycle: ${0:3}
+]]></content>
+  <tabTrigger>cyc</tabTrigger>
+  <scope>meta.function-call.stylus</scope>
+  <description>cycle: n</description>
+</snippet>

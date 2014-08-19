@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+align: ${0:center}
+]]></content>
+  <tabTrigger>align</tabTrigger>
+  <scope>meta.function-call.stylus</scope>
+  <description>align: pos</description>
+</snippet>
