@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-col_or_span: ${0:column}
+col_or_span: ${1:column}
 ]]></content>
   <tabTrigger>cs</tabTrigger>
   <scope>meta.function-call.stylus</scope>

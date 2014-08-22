@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-max_width: ${0:100}px
+max_width: ${1:100}px
 ]]></content>
   <tabTrigger>mw</tabTrigger>
   <scope>meta.function-call.stylus</scope>
