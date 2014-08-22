@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include stack(${1});
+]]></content>
+  <tabTrigger>stack</tabTrigger>
+  <scope>source.scss</scope>
+  <description>stack()</description>
+</snippet>

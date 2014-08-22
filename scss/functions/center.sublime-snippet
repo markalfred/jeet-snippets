@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include center(${1});
+]]></content>
+  <tabTrigger>cen</tabTrigger>
+  <scope>source.scss</scope>
+  <description>center()</description>
+</snippet>

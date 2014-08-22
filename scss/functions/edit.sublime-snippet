@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include edit();
+]]></content>
+  <tabTrigger>edit</tabTrigger>
+  <scope>source.scss</scope>
+  <description>edit()</description>
+</snippet>

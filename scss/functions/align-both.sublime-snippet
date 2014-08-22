@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include align(${1:both});
+]]></content>
+  <tabTrigger>alb</tabTrigger>
+  <scope>source.scss</scope>
+  <description>align(both)</description>
+</snippet>
