@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-center(${1})${0}
+center(${1})
 ]]></content>
   <tabTrigger>cen</tabTrigger>
   <scope>source.stylus</scope>

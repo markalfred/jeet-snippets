@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-cf()${0}
+cf()
 ]]></content>
   <tabTrigger>cf</tabTrigger>
   <scope>source.stylus</scope>

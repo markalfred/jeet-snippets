@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-align(${1:horizontal})${0}
+align(${1:horizontal})
 ]]></content>
   <tabTrigger>alh</tabTrigger>
   <scope>source.stylus</scope>

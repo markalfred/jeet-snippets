@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-pad: ${1:100}px${0}
+pad: ${1:100}px
 ]]></content>
   <tabTrigger>pad</tabTrigger>
   <scope>meta.function-call.stylus</scope>

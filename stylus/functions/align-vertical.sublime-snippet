@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-align(${1:vertical})${0}
+align(${1:vertical})
 ]]></content>
   <tabTrigger>alv</tabTrigger>
   <scope>source.stylus</scope>
