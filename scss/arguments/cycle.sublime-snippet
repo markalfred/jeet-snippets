@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$cycle: ${1:3}
+]]></content>
+  <tabTrigger>cyc</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$cycle: n</description>
+</snippet>

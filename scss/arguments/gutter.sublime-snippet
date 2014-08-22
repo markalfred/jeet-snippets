@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$gutter: ${1:3}
+]]></content>
+  <tabTrigger>gut</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$gutter: %</description>
+</snippet>
