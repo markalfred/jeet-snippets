@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-cycle: ${0:3}
+gutter: ${1:3}
 ]]></content>
-  <tabTrigger>cyc</tabTrigger>
+  <tabTrigger>gut</tabTrigger>
   <scope>meta.function-call.stylus</scope>
-  <description>cycle: n</description>
+  <description>gutter: %</description>
 </snippet>

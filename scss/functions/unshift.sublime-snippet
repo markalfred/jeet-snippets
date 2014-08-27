@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include unshift();
+]]></content>
+  <tabTrigger>uns</tabTrigger>
+  <scope>source.scss</scope>
+  <description>unshift()</description>
+</snippet>

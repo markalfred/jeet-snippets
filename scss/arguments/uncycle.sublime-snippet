@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$uncycle: ${1:3}
+]]></content>
+  <tabTrigger>unc</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$uncycle: n</description>
+</snippet>

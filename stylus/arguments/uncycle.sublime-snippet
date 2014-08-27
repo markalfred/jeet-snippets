@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-max_width: ${0:100}px
+uncycle: ${1:3}
 ]]></content>
-  <tabTrigger>mw</tabTrigger>
+  <tabTrigger>unc</tabTrigger>
   <scope>meta.function-call.stylus</scope>
-  <description>max_width: px</description>
+  <description>uncycle: n</description>
 </snippet>

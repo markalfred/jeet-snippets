@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-center(${1})${0}
+@include center(${1});
 ]]></content>
   <tabTrigger>cen</tabTrigger>
-  <scope>source.stylus</scope>
+  <scope>source.scss</scope>
   <description>center()</description>
 </snippet>

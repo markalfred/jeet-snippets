@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-uncycle: ${0:3}
+pad: ${1:100}px
 ]]></content>
-  <tabTrigger>unc</tabTrigger>
+  <tabTrigger>pad</tabTrigger>
   <scope>meta.function-call.stylus</scope>
-  <description>uncycle: n</description>
+  <description>pad: px</description>
 </snippet>

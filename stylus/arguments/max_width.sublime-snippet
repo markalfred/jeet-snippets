@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-align: ${0:center}
+max_width: ${1:100}px
 ]]></content>
-  <tabTrigger>align</tabTrigger>
+  <tabTrigger>mw</tabTrigger>
   <scope>meta.function-call.stylus</scope>
-  <description>align: pos</description>
+  <description>max_width: px</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$align: ${1:center}
+]]></content>
+  <tabTrigger>align</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$align: pos</description>
+</snippet>

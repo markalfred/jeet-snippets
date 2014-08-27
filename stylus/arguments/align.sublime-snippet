@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-gutter: ${0:3}
+align: ${1:center}
 ]]></content>
-  <tabTrigger>gut</tabTrigger>
+  <tabTrigger>align</tabTrigger>
   <scope>meta.function-call.stylus</scope>
-  <description>gutter: %</description>
+  <description>align: pos</description>
 </snippet>

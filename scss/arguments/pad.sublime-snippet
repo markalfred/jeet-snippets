@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$pad: ${1:100}px
+]]></content>
+  <tabTrigger>pad</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$pad: px</description>
+</snippet>

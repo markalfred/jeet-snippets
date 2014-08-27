@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include align(${1:vertical});
+]]></content>
+  <tabTrigger>alv</tabTrigger>
+  <scope>source.scss</scope>
+  <description>align(vertical)</description>
+</snippet>

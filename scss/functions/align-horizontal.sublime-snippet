@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-align(${1:horizontal})${0}
+@include align(${1:horizontal});
 ]]></content>
   <tabTrigger>alh</tabTrigger>
-  <scope>source.stylus</scope>
+  <scope>source.scss</scope>
   <description>align(horizontal)</description>
 </snippet>

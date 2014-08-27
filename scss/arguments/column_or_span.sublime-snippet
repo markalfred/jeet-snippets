@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$col_or_span: ${1:column}
+]]></content>
+  <tabTrigger>cs</tabTrigger>
+  <scope>meta.at-rule.include.scss</scope>
+  <description>$col_or_span: column</description>
+</snippet>

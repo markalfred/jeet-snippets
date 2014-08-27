@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+column(1/${1:3}${2})
+]]></content>
+  <tabTrigger>col</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>column(÷)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include cf();
+]]></content>
+  <tabTrigger>cf</tabTrigger>
+  <scope>source.scss</scope>
+  <description>cf()</description>
+</snippet>

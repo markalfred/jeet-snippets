@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+span(1/${1:3}${2})
+]]></content>
+  <tabTrigger>span</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>span(÷)</description>
+</snippet>

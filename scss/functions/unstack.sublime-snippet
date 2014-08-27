@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include unstack(${1});
+]]></content>
+  <tabTrigger>unstack</tabTrigger>
+  <scope>source.scss</scope>
+  <description>unstack()</description>
+</snippet>
