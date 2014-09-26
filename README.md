@@ -36,6 +36,7 @@ These triggers work anywhere in a `.styl` or `.scss` file.
 | sh      | shift(1/`3`)            | @include shift(1/`3`);         |
 | span    | span(1/`3`)             | @include span(1/`3`);          |
 | stack   | stack()                 | @include stack();              |
+| uncen   | uncenter()              | @include uncenter();           |
 | uns     | unshift()               | @include unshift();            |
 | unstack | unstack()               | @include unstack();            |
 

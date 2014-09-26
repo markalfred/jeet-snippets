@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include uncenter();
+]]></content>
+  <tabTrigger>uncen</tabTrigger>
+  <scope>source.scss</scope>
+  <description>uncenter()</description>
+</snippet>
