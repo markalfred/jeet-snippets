@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-edit()
+edit(${1:black})
 ]]></content>
   <tabTrigger>edit</tabTrigger>
   <scope>source.stylus</scope>
