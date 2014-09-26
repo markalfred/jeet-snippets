@@ -30,6 +30,7 @@ These triggers work anywhere in a `.styl` or `.scss` file.
 | cen     | center()                | @include center();            |
 | cf      | cf()                    | @include cf();                |
 | col     | column(1/`3`)           | @include column(1/`3`);       |
+| cw      | column-width(1/`3`)     | @include column-width(1/`3`); |
 | edit    | edit()                  | @include edit();              |
 | sh      | shift(1/`3`)            | @include shift(1/`3`);        |
 | span    | span(1/`3`)             | @include span(1/`3`);         |
