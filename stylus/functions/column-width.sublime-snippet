@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+column-width(1/${1:3}${2})
+]]></content>
+  <tabTrigger>cw</tabTrigger>
+  <scope>source.stylus</scope>
+  <description>column-width(÷)</description>
+</snippet>

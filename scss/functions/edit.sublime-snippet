@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-@include edit();
+@include edit(${1:black});
 ]]></content>
   <tabTrigger>edit</tabTrigger>
   <scope>source.scss</scope>

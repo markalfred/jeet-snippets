@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-edit(${1:black})
+uncenter()
 ]]></content>
-  <tabTrigger>edit</tabTrigger>
+  <tabTrigger>uncen</tabTrigger>
   <scope>source.stylus</scope>
-  <description>edit()</description>
+  <description>uncenter()</description>
 </snippet>

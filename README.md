@@ -22,20 +22,23 @@ Type a **Trigger** below and press `tab`. The snippet will be inserted with the 
 
 These triggers work anywhere in a `.styl` or `.scss` file.
 
-| Trigger | Stylus                  | SCSS                          |
-| ------- | ----------------------- | ----------------------------- |
-| alb     | align(`both`)           | @include align(`both`);       |
-| alh     | align(`horizontal`)     | @include align(`horizontal`); |
-| alv     | align(`vertical`)       | @include align(`vertical`);   |
-| cen     | center()                | @include center();            |
-| cf      | cf()                    | @include cf();                |
-| col     | column(1/`3`)           | @include column(1/`3`);       |
-| edit    | edit()                  | @include edit();              |
-| sh      | shift(1/`3`)            | @include shift(1/`3`);        |
-| span    | span(1/`3`)             | @include span(1/`3`);         |
-| stack   | stack()                 | @include stack();             |
-| uns     | unshift()               | @include unshift();           |
-| unstack | unstack()               | @include unstack();           |
+| Trigger | Stylus                  | SCSS                           |
+| ------- | ----------------------- | -----------------------------  |
+| alb     | align(`both`)           | @include align(`both`);        |
+| alh     | align(`horizontal`)     | @include align(`horizontal`);  |
+| alv     | align(`vertical`)       | @include align(`vertical`);    |
+| cen     | center()                | @include center();             |
+| cf      | cf()                    | @include cf();                 |
+| col     | column(1/`3`)           | @include column(1/`3`);        |
+| cg      | column-gutter(1/`3`)    | @include column-gutter(1/`3`); |
+| cw      | column-width(1/`3`)     | @include column-width(1/`3`);  |
+| edit    | edit(`black`)           | @include edit(`black`);        |
+| sh      | shift(1/`3`)            | @include shift(1/`3`);         |
+| span    | span(1/`3`)             | @include span(1/`3`);          |
+| stack   | stack()                 | @include stack();              |
+| uncen   | uncenter()              | @include uncenter();           |
+| uns     | unshift()               | @include unshift();            |
+| unstack | unstack()               | @include unstack();            |
 
 These triggers work only as arguments inside the functions/mixins above.
 
